@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Erişim Belirleyiciler ve Kurucu Fonksiyonlar", "Erişim Belirleyiciler ve Kurucu Fonksiyonlar.csproj", "{122AB8FC-DAF0-4395-B9B5-DB7D767B372A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{122AB8FC-DAF0-4395-B9B5-DB7D767B372A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122AB8FC-DAF0-4395-B9B5-DB7D767B372A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122AB8FC-DAF0-4395-B9B5-DB7D767B372A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122AB8FC-DAF0-4395-B9B5-DB7D767B372A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38E32595-4816-4960-A04D-87CE1B89F238}
+	EndGlobalSection
+EndGlobal
